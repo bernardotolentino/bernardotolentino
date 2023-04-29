@@ -15,4 +15,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next13](https://img.shields.io/badge/-Next13-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+## Vocẽ é meu visitante de numero :
+![Visitor Count](https://profile-counter.glitch.me/{bernardotolentino}/count.svg)
+
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bernardotolentino&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/bernardotolentino) -->
